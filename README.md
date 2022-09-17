@@ -1,5 +1,5 @@
 # Olá Mundo!! Meu nome é Diogo Antonny, estudante de programação e de desenvolvimento de sites!!
- ![](./profile-3d-contrib/profile-season-animate.svg)
+ ![](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <p>👋 OII!! Sou Diogojp</p> 
 <p>👀 Ainda pretendo estudar muitas coisas, uma delas é Back-end.</p> 
