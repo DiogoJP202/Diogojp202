@@ -1,4 +1,5 @@
 # Olá Mundo!! Meu nome é Diogo Antonny, estudante de programação e de desenvolvimento de sites!!
+ ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <p>👋 OII!! Sou Diogojp</p> 
 <p>👀 Ainda pretendo estudar muitas coisas, uma delas é Back-end.</p> 
@@ -9,7 +10,6 @@
     <a href="https://github.com/DiogoJP202">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoJP202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"/>
-     ![](github.com/DiogoJP202/Diogojp202/blob/output/profile-3d-contrib/profile-night-rainbow.svg)
  </div> 
   
  <div style="text-align:center;">
