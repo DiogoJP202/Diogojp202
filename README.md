@@ -19,7 +19,7 @@
     <img align="center" alt="Diogo-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="right" alt="Diogo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/553585426464768021/957332657216315452/94097_1xpZ4mSp.png?width=492&height=492">
   </div>
-  <br>
+  <br> 
   <div>
     <a href="https://www.youtube.com/channel/UCmHyxuA34292pxKtAguPA-Q" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/ton.nyx3/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,5 +32,5 @@
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    
-   
+   <a href="" >Veja o perfil no site!</a>
   </div>
