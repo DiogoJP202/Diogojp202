@@ -9,7 +9,7 @@
     <a href="https://github.com/DiogoJP202">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoJP202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"/>
-     ![](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+     ![](https://github.com/DiogoJP202/Diogojp202/blob/output/profile-3d-contrib/profile-night-rainbow.svg)
  </div> 
   
  <div style="text-align:center;">
