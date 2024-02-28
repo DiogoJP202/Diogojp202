@@ -1,4 +1,4 @@
-# Olá Mundo!! Meu nome é Diogo Antonny, estudante de programação e de desenvolvimento de sites!!
+# Olá Mundo!! Meu nome é Diogo Antonny, estudante de programação e de desenvolvimento Web!!
  ![](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <p>👋 OII!! Sou Diogojp</p> 
@@ -29,7 +29,7 @@
     <a href = "Diogojp202@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
     <a href="https://www.linkedin.com/in/diogo-antonny-8a65281b8/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <br>
-    <img alt="Vagabond" height="auto" style=" width:100%; margin:auto; display:block;" src="https://media.discordapp.net/attachments/553585426464768021/1020457661910745138/o9z0g4vezev81.jpeg" id="Vagabond">
+    <img alt="Vagabond" height="auto" style=" width:100%; margin:auto; display:block;" src="https://staticg.sportskeeda.com/editor/2023/04/9f5be-16824439274536.png?w=840" id="Vagabond">
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
