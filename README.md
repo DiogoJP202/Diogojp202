@@ -18,7 +18,6 @@
     <img align="center" alt="Diogo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Diogo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="Diogo-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="right" alt="Diogo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/553585426464768021/957332657216315452/94097_1xpZ4mSp.png?width=492&height=492">
   </div>
   <br> 
   <div>
