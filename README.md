@@ -20,6 +20,8 @@
     <img align="center" alt="Diogo-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Diogo-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
     <img align="center" alt="Diogo-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Diogo-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg">
+    <img align="center" alt="Diogo-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
   </div>
   <br> 
   <div>
