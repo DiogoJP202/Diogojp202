@@ -21,6 +21,7 @@
     <img align="center" alt="Diogo-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Diogo-Powershell" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg">
     <img align="center" alt="Diogo-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
+    <img align="center" alt="Diogo-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   </div>
   <br> 
   <div align="center">
