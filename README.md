@@ -1,4 +1,4 @@
-# Olá Mundo!! Meu nome é Diogo Antonny, estudante de programação e de desenvolvimento Web!!
+# Olá Mundo!! Meu nome é Diogo Antonny e sou desenvolvedor web!!
  ![](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <p>👋 OII!! Sou Diogojp</p> 
