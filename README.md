@@ -6,13 +6,12 @@
 <p>🌱 Atualmente estou estudando Front-end.</p> 
 <p>&#x1F3AE Gosto muito de jogos eletrônicos.</p> 
 
- <div>
+ <div align="center">
     <a href="https://github.com/DiogoJP202">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoJP202&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark">
  </div> 
   
- <div style="text-align:center;">
+ <div style="text-align:center;" align="center">
     <br>
     <img align="center" alt="Diogo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Diogo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -24,7 +23,7 @@
     <img align="center" alt="Diogo-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
   </div>
   <br> 
-  <div>
+  <div align="center">
     <a href="https://www.youtube.com/channel/UCmHyxuA34292pxKtAguPA-Q" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/ton.nyx3/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/diogo-antonny-8a65281b8/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
