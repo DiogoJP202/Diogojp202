@@ -1,28 +1,23 @@
-# Olá Mundo!! Meu nome é Diogo Antonny e sou desenvolvedor web!!
- ![](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<p>👋 OII!! Sou Diogojp</p> 
-<p>👀 Ainda pretendo estudar muitas coisas, uma delas é Back-end.</p> 
-<p>🌱 Atualmente estou estudando Front-end.</p> 
-<p>&#x1F3AE Gosto muito de jogos eletrônicos.</p> 
+<p>👋 OII!! Sou Diogo Antonny e sou desenvolvedor web!</p> 
+<p>🌱 Sou apaixonado por estudar!</p> 
+<p>💻 Amo tecnologia!</p> 
 
  <div align="center">
     <a href="https://github.com/DiogoJP202">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark">
  </div> 
   
- <div style="text-align:center;" align="center">
+ <div style="text-align:center;" align="left">
     <br>
-    <img align="center" alt="Diogo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Diogo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Diogo-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Diogo-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Diogo-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-    <img align="center" alt="Diogo-Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-    <img align="center" alt="Diogo-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Diogo-Powershell" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg">
-    <img align="center" alt="Diogo-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg">
-    <img align="center" alt="Diogo-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,nodejs,npm,webpack,react,git,java" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=ps,pr" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=arduino, cpp" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,mint,neovim,vim,windows" />
   </div>
   <br> 
   <div align="center">
