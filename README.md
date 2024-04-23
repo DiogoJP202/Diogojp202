@@ -11,11 +11,11 @@
   
  <div style="text-align:center;" align="left">
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,nodejs,npm,webpack,react,git,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,nodejs,npm,webpack,react,spring,git,java" />
     <br>
     <img src="https://skillicons.dev/icons?i=ps,pr" />
     <br>
-    <img src="https://skillicons.dev/icons?i=arduino, cpp" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp" />
     <br>
     <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,mint,neovim,vim,windows" />
   </div>
