@@ -4,10 +4,10 @@
 <p>🌱 Sou apaixonado por estudar!</p> 
 <p>💻 Amo tecnologia!</p> 
 
- <div align="center">
+ <div align="center" margin="10px">
     <a href="https://github.com/DiogoJP202">
-    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark">
-    <img height="50px" align="right" src="">
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark" margin="10px">
+    <img height="200em" align="right" src="octocat-1715101007755.png" margin="10px">
  </div> 
   
  <div style="text-align:center;" align="left">
