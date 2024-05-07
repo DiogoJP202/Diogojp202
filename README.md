@@ -6,7 +6,8 @@
 
  <div align="center">
     <a href="https://github.com/DiogoJP202">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark">
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark">
+    <img height="50px" align="right" src="">
  </div> 
   
  <div style="text-align:center;" align="left">
