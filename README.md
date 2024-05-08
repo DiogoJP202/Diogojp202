@@ -4,21 +4,23 @@
 <p>🌱 Sou apaixonado por estudar!</p> 
 <p>💻 Amo tecnologia!</p> 
 
- <div align="center" margin="10px">
+ <div align="center"margi>
     <a href="https://github.com/DiogoJP202">
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark" margin="10px">
     <img height="200em" align="right" src="octocat-1715101007755.png" margin="10px">
+     
  </div> 
   
  <div style="text-align:center;" align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,git,vercel" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,nodejs,npm,webpack,react,spring,git,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java" />
     <br>
     <img src="https://skillicons.dev/icons?i=ps,pr" />
     <br>
     <img src="https://skillicons.dev/icons?i=arduino,cpp" />
     <br>
-    <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,mint,neovim,vim,windows" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,neovim,vim,windows,obsidian" />
   </div>
   <br> 
   <div align="center">
