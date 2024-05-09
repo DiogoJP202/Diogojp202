@@ -14,7 +14,7 @@
  <div style="text-align:center;" align="left">
     <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,git,vercel" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java,python" />
     <br>
     <img src="https://skillicons.dev/icons?i=ps,pr" />
     <br>
