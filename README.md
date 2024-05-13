@@ -1,5 +1,4 @@
-![Wallpaper](100MDevs_Blog_1200x627_v3.gif)
-
+![topWallpaper](TopWallpaper.gif)
 ![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 > 👋 "Hello World" I'm Diogo Antonny, a Full-Stack Developer.
@@ -41,3 +40,5 @@
  
  <h2> <a href="https://diogojp202.github.io/Portifolio/">!! Portfolio aqui !!</a> </h2>
 </div>
+
+![topWallpaper](BottomWallpaper.gif)
