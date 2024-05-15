@@ -1,5 +1,5 @@
 ![topWallpaper](TopWallpaper.gif)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=22F749&center=true&random=false&width=435&lines=Hello+World!++XD+Diogo+Here!)](https://git.io/typing-svg)
 > 👋 "Hello World" I'm Diogo Antonny, a Full-Stack Developer.
 > 
 > 🌱 I'm passionate for technology!
