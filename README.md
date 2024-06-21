@@ -8,25 +8,37 @@
 
 ![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="center">
- <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark">
- <img height="200em" align="right" src="octocat-1715101007755.png">
-</div>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="octocat-1715101007755.png">
 
-<br>
-
-<div style="text-align:center;" align="left">
- <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,git,vercel" />
+<div align="left">
+ <strong align="left">Front-End</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=nodejs,mongodb,babel,npm,webpack,spring,java,python" />
+ <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,git,vercel"/>
+ <br>
+ <strong align="left">Back-End</strong>
+ <br>
+ <img src="https://skillicons.dev/icons?i=nodejs,mongodb,babel,npm,webpack,spring,java,idea,python"/>
+ <br>
+ <strong align="left">Adobe</strong>
  <br>
  <img src="https://skillicons.dev/icons?i=ps,pr" />
  <br>
+ <strong align="left">Eletrônica</strong>
+ <br>
  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
  <br>
+ <strong align="left">Sistema Operativo</strong>
+ <br>
  <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,neovim,vim,windows,obsidian" />
+ <br>
+ <strong align="left">Método Scrum</strong>
+ <br>
+ <img src="https://skillicons.dev/icons?i=obsidian,notion,discord,md" /> <img height="50em" src="https://github.com/CR10L02k/imagens/blob/main/icons/trello/trello-plain.svg"/>
 </div>
- 
+ <strong align="left">Clound</strong>
+ <br>
+ <img src="https://skillicons.dev/icons?i=aws" />
+</div>
 <br>
   
 <div align="center">
