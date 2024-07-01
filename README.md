@@ -17,7 +17,7 @@
  <br>
  <strong align="left">Back-End</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=nodejs,mongodb,babel,npm,webpack,spring,java,idea,python"/>
+ <img src="https://skillicons.dev/icons?i=nodejs,mongodb,babel,npm,webpack,spring,java,idea,python,postman"/>
  <br>
  <strong align="left">Adobe</strong>
  <br>
@@ -29,7 +29,7 @@
  <br>
  <strong align="left">Sistema Operativo</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,neovim,vim,windows,obsidian" />
+ <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,neovim,vim,windows" />
  <br>
  <strong align="left">Método Scrum</strong>
  <br>
