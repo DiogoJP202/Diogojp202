@@ -17,7 +17,7 @@
  <br>
  <strong align="left">Back-End</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=nodejs,mongodb,babel,npm,webpack,spring,java,idea,python,postman"/>
+ <img src="https://skillicons.dev/icons?i=nodejs,mongodb,babel,npm,webpack,spring,java,idea,python,postman,mysql"/>
  <br>
  <strong align="left">Adobe</strong>
  <br>
