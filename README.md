@@ -5,6 +5,10 @@
 > 🌱 I'm passionate for technology!
 > 
 > 💻 I'm a technology fanatic!
+>
+<div align="center">
+ <img src="giphy.gif">
+</div>
 
 ![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
