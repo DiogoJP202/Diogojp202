@@ -59,4 +59,4 @@
  <h2><a href="https://diogojp202.github.io/Portifolio/">!! Portfolio aqui !!</a> </h2>
 </div>
 
-![topWallpaper](BottomWallpaper.gif)
+![topWallpaper](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/BottomWallpaper.gif)
