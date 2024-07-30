@@ -1,4 +1,4 @@
-![topWallpaper](TopWallpaper.gif)
+![topWallpaper](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/TopWallpaper.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=22F749&center=true&random=false&width=435&lines=Hello+World!++XD+Diogo+Here!)](https://git.io/typing-svg)
 > 👋 "Hello World" I'm Diogo Antonny, a Full-Stack Developer.
 > 
@@ -7,7 +7,7 @@
 > 💻 I'm a technology fanatic!
 >
 <div align="center">
- <img src="giphy.gif">
+ <img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/giphy.gif">
 </div>
 
 ![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
