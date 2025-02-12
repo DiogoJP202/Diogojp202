@@ -21,7 +21,15 @@
  <br>
  <strong align="left">Back-End</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=nodejs,mongodb,babel,npm,webpack,spring,java,idea,python,postman,mysql,cs"/>
+ <img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java,idea,python,cs,dotnet"/>
+ <br>
+ <strong align="left">Database</strong>
+ <br>
+ <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+ <br>
+  <strong align="left">Other Techs and Tools:</strong>
+ <br>
+ <img src="https://skillicons.dev/icons?i=regex,postman,obsidian,notion,md,unity"/>
  <br>
  <strong align="left">Adobe</strong>
  <br>
@@ -33,12 +41,8 @@
  <br>
  <strong align="left">Sistema Operativo</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,neovim,vim,windows" />
+ <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,vim,windows,arch" />
  <br>
- <strong align="left">Método Scrum</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=obsidian,notion,discord,md" /> <img height="50em" src="https://github.com/CR10L02k/imagens/blob/main/icons/trello/trello-plain.svg"/>
-</div>
  <strong align="left">Clound</strong>
  <br>
  <img src="https://skillicons.dev/icons?i=aws" />
