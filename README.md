@@ -54,7 +54,6 @@
  <a href="https://www.instagram.com/ton.nyx3/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/diogo-antonny/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://linktr.ee/diogoantonny" target="_blank" rel="external"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
- <a href="https://www.dio.me/users/diogojp202" target="_blank" rel="external"><img src="https://img.shields.io/badge/DIO_Profile-diogojp202-blue" target="_blank"></a> 
  <a href="https://judge.beecrowd.com/pt/profile/1039293" target="_blank" rel="external"><img src="https://img.shields.io/badge/Click_Here-BeeCrowd-yellow" target="_blank"></a>
  
  <br>
