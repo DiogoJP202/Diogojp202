@@ -29,7 +29,7 @@
  <br>
   <strong align="left">Other Techs and Tools:</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=regex,postman,obsidian,notion,md,unity"/>
+ <img src="https://skillicons.dev/icons?i=regex,postman,docker,kubernetes,obsidian,notion,md,unity"/>
  <br>
  <strong align="left">Adobe</strong>
  <br>
