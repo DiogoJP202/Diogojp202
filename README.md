@@ -17,7 +17,7 @@
 <div align="left">
  <strong align="left">Front-End</strong>
  <br>
- <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,styledcomponents,git,vercel,netlify"/>
+ <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,styledcomponents,git,vercel,netlify,jquery"/>
  <br>
  <strong align="left">Back-End</strong>
  <br>
