@@ -43,7 +43,7 @@
  <br>
  <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,vim,windows,arch" />
  <br>
- <strong align="left">Clound</strong>
+ <strong align="left">Cloud</strong>
  <br>
  <img src="https://skillicons.dev/icons?i=aws" />
 </div>
