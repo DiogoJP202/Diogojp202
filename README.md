@@ -5,6 +5,10 @@
 > 👋 こんにちは! (Konnichiwa!)  
 > I'm Diogo Antonny — a Full-Stack Developer exploring the intersection of **technology, Game development, Barista, brutalism, and Japanese culture**.  
 
+<div align="center">
+ <img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/giphy.gif">
+</div>
+
 ☕ Addicted to coffee (especially with brownies)  
 🐱 Cat lover  
 📚 Passionate about learning new languages — currently studying **日本語 (Japanese)**  
@@ -17,9 +21,7 @@
 コーヒーとブラウニーも大好きです！  
 よろしくお願いします。 ☕🐱
 
-<div align="center">
- <img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/giphy.gif">
-</div>
+<img width="1016" height="221" alt="image" src="https://github.com/user-attachments/assets/89041b40-695d-498f-8486-980b6076e183" />
 
 ![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
