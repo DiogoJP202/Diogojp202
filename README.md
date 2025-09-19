@@ -75,8 +75,10 @@
       <img src="https://img.shields.io/badge/YouTube-[動画]-000000?style=for-the-badge&logo=youtube&logoColor=00ff00&labelColor=111111&color=00ff00" />
     </a> 
  </div>
- 
- <img alt="Vagabond" height="auto" width="100%" style=" width:100%; margin:auto; display:block;" src="https://staticg.sportskeeda.com/editor/2023/04/9f5be-16824439274536.png?w=840" id="Vagabond">
+<br> 
+<div align="center">
+ <img alt="Vagabond" src="https://staticg.sportskeeda.com/editor/2023/04/9f5be-16824439274536.png?w=500" id="Vagabond">
+</div>
  
 <div align="center">
      <h2 style="text-align:center; font-family: 'Gill Sans', monospace; color:#00ff00; background-color:#111; padding:15px; border:2px solid #00ff00;">
