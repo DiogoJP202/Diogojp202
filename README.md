@@ -58,20 +58,41 @@
  <br>
  <img src="https://skillicons.dev/icons?i=aws" />
 </div>
-<br>
-  
+
+## ⬛ CYBER-LINKS [リンク] ⬛
 <div align="center">
- <a href="https://www.youtube.com/channel/UCmHyxuA34292pxKtAguPA-Q" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/ton.nyx3/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/diogo-antonny/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://linktr.ee/diogoantonny" target="_blank" rel="external"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
- <a href="https://judge.beecrowd.com/pt/profile/1039293" target="_blank" rel="external"><img src="https://img.shields.io/badge/Click_Here-BeeCrowd-yellow" target="_blank"></a>
- 
- <br>
+    <a href="https://diogojp202.github.io/Portfolio/" target="_blank" rel="external">
+      <img src="https://img.shields.io/badge/Portfolio-[ポートフォリオ]-000000?style=for-the-badge&logo=matrix&logoColor=00ff00&labelColor=111111&color=00ff00" />
+    </a>  
+    <a href="https://www.linkedin.com/in/diogo-antonny/" target="_blank" rel="external">
+      <img src="https://img.shields.io/badge/LinkedIn-[接続]-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=111111&color=00ff00" />
+    </a>  
+    <a href="https://www.instagram.com/ton.nyx3/" target="_blank" rel="external">
+      <img src="https://img.shields.io/badge/Instagram-[映像]-000000?style=for-the-badge&logo=instagram&logoColor=00ff00&labelColor=111111&color=00ff00" />
+    </a>  
+    <a href="https://www.postman.com/t0nnyx3" target="_blank" rel="external">
+      <img src="https://img.shields.io/badge/Postman-[端末]-000000?style=for-the-badge&logo=postman&logoColor=00ff00&labelColor=111111&color=00ff00" />
+    </a>  
+    <a href="https://linktr.ee/diogoantonny" target="_blank" rel="external">
+      <img src="https://img.shields.io/badge/Linktree-[ネット]-000000?style=for-the-badge&logo=linktree&logoColor=00ff00&labelColor=111111&color=00ff00" />
+    </a>  
+    <a href="https://www.youtube.com/@Diogojp202" target="_blank" rel="external">
+      <img src="https://img.shields.io/badge/YouTube-[動画]-000000?style=for-the-badge&logo=youtube&logoColor=00ff00&labelColor=111111&color=00ff00" />
+    </a> 
+ </div>
  
  <img alt="Vagabond" height="auto" width="100%" style=" width:100%; margin:auto; display:block;" src="https://staticg.sportskeeda.com/editor/2023/04/9f5be-16824439274536.png?w=840" id="Vagabond">
  
- <h1><a href="https://diogojp202.github.io/Portfolio/" target="_blank">Confira meu portfólio clicando aqui </a> </h1>
+<div align="center">
+     <h2 style="text-align:center; font-family: 'Gill Sans', monospace; color:#00ff00; background-color:#111; padding:15px; border:2px solid #00ff00;">
+         [-- PORTFÓLIO --] <br> 
+         <a href="https://diogojp202.github.io/Portfolio/" target="_blank" style="color:#00ff00; text-decoration:none;">ACESSAR AQUI</a> 
+         <br>
+         [-ポートフォリオ-]
+     </h2>
+     <p style="text-align:center; font-family:'Courier New', monospace; color:#00ff00;">
+         デジタル作品集 | MATRIX NODE 緑
+     </p>
 </div>
 
 ![topWallpaper](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/BottomWallpaper.gif)
