@@ -26,38 +26,33 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/git_character.webp">
 
 <div align="left">
- <strong align="left">Front-End</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,styledcomponents,git,vercel,netlify,jquery"/>
- <br>
- <strong align="left">Back-End</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java,idea,python,cs,dotnet"/>
- <br>
- <strong align="left">Database</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
- <br>
-  <strong align="left">Other Techs and Tools:</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=regex,postman,docker,kubernetes,obsidian,notion,md,unity"/>
- <br>
- <strong align="left">Adobe</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=ps,pr" />
- <br>
- <strong align="left">Eletrônica</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=arduino,cpp" />
- <br>
- <strong align="left">Sistema Operativo</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,vim,windows,arch" />
- <br>
- <strong align="left">Cloud</strong>
- <br>
- <img src="https://skillicons.dev/icons?i=aws" />
+<hr>
+<h3 style="color:#00ff00;">💻 [フロントエンド] - Front-End</h3>
+<img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,styledcomponents,git,vercel,netlify,jquery"/>
+<hr>
+<h3 style="color:#00ff00;">🖥 [バックエンド] - Back-End</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java,idea,python,cs,dotnet"/>
+<hr>
+<h3 style="color:#00ff00;">🗄️ [データベース] - Database</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+<hr>
+<h3 style="color:#00ff00;">⚙️ [その他の技術とツール] Other Techs & Tools</h3>
+<img src="https://skillicons.dev/icons?i=regex,postman,docker,kubernetes,obsidian,notion,md,unity"/>
+<hr>
+<h3 style="color:#00ff00;">🎨 Adobe</h3>
+<img src="https://skillicons.dev/icons?i=ps,pr"/>
+<hr>
+<h3 style="color:#00ff00;">⚡ [エレクトロニクス] - Eletrônica</h3>
+<img src="https://skillicons.dev/icons?i=arduino,cpp"/>
+<hr>
+<h3 style="color:#00ff00;">🖥️ [システム] - Sistema Operativo</h3>
+<img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,vim,windows,arch"/>
+<hr>
+<h3 style="color:#00ff00;">☁️ [クラウド] - Cloud</h3>
+<img src="https://skillicons.dev/icons?i=aws"/>
+<hr>
 </div>
+
 
 ## ⬛ CYBER-LINKS [リンク] ⬛
 <div align="center">
@@ -91,7 +86,7 @@
          [-ポートフォリオ-]
      </h2>
      <p style="text-align:center; font-family:'Courier New', monospace; color:#00ff00;">
-         デジタル作品集 | MATRIX NODE 緑
+         __ デジタル作品集 | MATRIX NODE 緑 __
      </p>
 </div>
 
