@@ -3,12 +3,13 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=TONNY&fontSize=60&fontColor=00ff66&animation=fadeIn&desc=フルスタック開発者&descAlignY=65&descSize=20"
     width="100%"
     alt="header"
+    margin="0"
+    padding="0"
   />
 </p>
 
 > 👋 こんにちは! (Konnichiwa!)  
 > I'm Diogo Antonny — a Full-Stack Developer exploring the intersection of **technology, Game development, Barista, brutalism, and Japanese culture**.  
-
 
 <img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/terminal-boot.svg" width="100%">
 
@@ -34,33 +35,32 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/octocat.png">
 
 <div align="left">
-<hr>
-<h3 style="color:#00ff00;">💻 [フロントエンド] - Front-End</h3>
-<img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,styledcomponents,git,vercel,netlify,jquery"/>
-<hr>
-<h3 style="color:#00ff00;">🖥 [バックエンド] - Back-End</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java,idea,python,cs,dotnet"/>
-<hr>
-<h3 style="color:#00ff00;">🗄️ [データベース] - Database</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-<hr>
-<h3 style="color:#00ff00;">⚙️ [その他の技術とツール] Other Techs & Tools</h3>
-<img src="https://skillicons.dev/icons?i=regex,postman,docker,kubernetes,obsidian,notion,md,unity"/>
-<hr>
-<h3 style="color:#00ff00;">🎨 Adobe</h3>
-<img src="https://skillicons.dev/icons?i=ps,pr"/>
-<hr>
-<h3 style="color:#00ff00;">⚡ [エレクトロニクス] - Eletrônica</h3>
-<img src="https://skillicons.dev/icons?i=arduino,cpp"/>
-<hr>
-<h3 style="color:#00ff00;">🖥️ [システム] - Sistema Operativo</h3>
-<img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,vim,windows,arch"/>
-<hr>
-<h3 style="color:#00ff00;">☁️ [クラウド] - Cloud</h3>
-<img src="https://skillicons.dev/icons?i=aws"/>
-<hr>
-</div>
 
+💻 <img src="https://img.shields.io/badge/Front--End-%5Bフロントエンド%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Front-End"/>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,styledcomponents,git,vercel,netlify,jquery&perline=8"/>
+<br><br>
+
+🖥 <img src="https://img.shields.io/badge/Back--End-%5Bバックエンド%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Back-End"/>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java,idea,python,cs,dotnet"/>
+<br><br>
+
+🗄️ <img src="https://img.shields.io/badge/Data--Layer-%5Bデータ%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Data Layer"/>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws"/>
+<br><br>
+
+⌨️ <img src="https://img.shields.io/badge/OS--Terminal-%5Bシステム%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="OS and Terminal"/>
+<br>
+<img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,vim,windows,arch"/>
+<br><br>
+
+⚙️ <img src="https://img.shields.io/badge/Tools--Extras-%5Bその他%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Tools and Extras"/>
+<br>
+<img src="https://skillicons.dev/icons?i=regex,postman,docker,kubernetes,obsidian,notion,md,unity,arduino,cpp,ps,pr&perline=8"/>
+
+</div>
 
 ## ⬛ CYBER-LINKS [リンク] ⬛
 <div align="center">
@@ -89,15 +89,9 @@
 </div>
  
 <div align="center">
-     <h2 style="text-align:center; font-family: 'Gill Sans', monospace; color:#00ff00; background-color:#111; padding:15px; border:2px solid #00ff00;">
-         [-- PORTFÓLIO --] <br> 
-         <a href="https://diogojp202.github.io/Portfolio/" target="_blank" style="color:#00ff00; text-decoration:none;">ACESSAR AQUI</a> 
-         <br>
-         [-ポートフォリオ-]
-     </h2>
-     <p style="text-align:center; font-family:'Courier New', monospace; color:#00ff00;">
-         __ デジタル作品集 | MATRIX NODE 緑 __
-     </p>
+
+[![Acessar Portfólio](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/portfolio-cta.svg)](https://diogojp202.github.io/Portfolio/)
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=500&color=1BF711&center=true&vCenter=true&width=400&lines=Tonny+here+%3E%3A3)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=500&color=1BF711&center=true&vCenter=true&width=400&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!)](https://git.io/typing-svg)
