@@ -24,13 +24,11 @@
 コーヒーとブラウニーも大好きです！  
 よろしくお願いします。 ☕🐱
 
-<img width="1016" height="221" alt="image" src="https://github.com/user-attachments/assets/89041b40-695d-498f-8486-980b6076e183" />
+<img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/glitch-banner.svg" width="100%">
 
 ![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/git_character.webp">
-
-<img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/glitch-banner.svg" width="100%">
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/octocat.png">
 
 <div align="left">
 <hr>
