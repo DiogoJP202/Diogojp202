@@ -1,0 +1,49 @@
+<svg viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="ctaGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur">
+        <animate attributeName="stdDeviation" values="2;6;2" dur="2.4s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="4" y="4" width="692" height="142" rx="14" fill="#0a0a0a" stroke="#00ff66" stroke-width="3" filter="url(#ctaGlow)">
+    <animate attributeName="stroke-opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g stroke="#00ff66" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 18 30 L 18 16 L 32 16"/>
+    <path d="M 668 16 L 682 16 L 682 30"/>
+    <path d="M 682 120 L 682 134 L 668 134"/>
+    <path d="M 32 134 L 18 134 L 18 120"/>
+  </g>
+
+  <text x="350" y="28" text-anchor="middle" font-family="monospace" font-size="13" fill="#00ff66" opacity="0.55">[ SYSTEM // PORTFÓLIO ]</text>
+
+  <text x="350" y="75" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="32" fill="#00ff66" filter="url(#ctaGlow)">
+    ACESSAR PORTFÓLIO
+    <animate attributeName="opacity" values="1;1;1;1;1;0.3;1" keyTimes="0;0.3;0.5;0.7;0.9;0.93;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="350" y="100" text-anchor="middle" font-family="monospace" font-size="14" fill="#baffd9" opacity="0.75">デジタル作品集 ・ ポートフォリオ</text>
+
+  <text x="350" y="122" text-anchor="middle" font-family="monospace" font-size="13" fill="#00ff66" opacity="0.6">clique para entrar</text>
+
+  <g font-family="monospace" font-size="14" fill="#00ff66">
+    <text x="200" y="122" opacity="0.2">▸<animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="216" y="122" opacity="0.2">▸<animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.15s" repeatCount="indefinite"/></text>
+    <text x="232" y="122" opacity="0.2">▸<animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></text>
+
+    <text x="466" y="122" opacity="0.2">◂<animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0s" repeatCount="indefinite"/></text>
+    <text x="450" y="122" opacity="0.2">◂<animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.15s" repeatCount="indefinite"/></text>
+    <text x="434" y="122" opacity="0.2">◂<animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></text>
+  </g>
+
+  <rect x="20" y="137" width="0" height="3" fill="#00ff66" opacity="0.8">
+    <animate attributeName="width" values="0;660;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
