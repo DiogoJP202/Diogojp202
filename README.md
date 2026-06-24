@@ -9,6 +9,8 @@
 > 👋 こんにちは! (Konnichiwa!)  
 > I'm Diogo Antonny — a Full-Stack Developer exploring the intersection of **technology, Game development, Barista, brutalism, and Japanese culture**.  
 
+<img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/terminal-boot.svg" width="100%">
+
 <div align="center">
  <img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/giphy.gif">
 </div>
