@@ -1,5 +1,10 @@
-![topWallpaper](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/TopWallpaper.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=500&color=1BF711&center=true&vCenter=true&width=400&lines=Tonny+here+%3E%3A3)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=500&color=1BF711&center=true&vCenter=true&width=400&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!)](https://git.io/typing-svg)
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=TONNY&fontSize=60&fontColor=00ff66&animation=fadeIn&desc=フルスタック開発者&descAlignY=65&descSize=20"
+    width="100%"
+    alt="header"
+  />
+</p>
 
 > 👋 こんにちは! (Konnichiwa!)  
 > I'm Diogo Antonny — a Full-Stack Developer exploring the intersection of **technology, Game development, Barista, brutalism, and Japanese culture**.  
@@ -24,6 +29,8 @@
 ![Dashbord](https://github.com/DiogoJP202/Diogojp202/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoJP202&layout=compact&langs_count=7&theme=dark"> <img height="200em" align="right" src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/git_character.webp">
+
+<img src="https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/glitch-banner.svg" width="100%">
 
 <div align="left">
 <hr>
@@ -92,4 +99,7 @@
      </p>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=500&color=1BF711&center=true&vCenter=true&width=400&lines=Tonny+here+%3E%3A3)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&pause=500&color=1BF711&center=true&vCenter=true&width=400&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!)](https://git.io/typing-svg)
+
+![topWallpaper](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/TopWallpaper.gif)
 ![topWallpaper](https://raw.githubusercontent.com/DiogoJP202/Diogojp202/main/BottomWallpaper.gif)
