@@ -1,0 +1,150 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="bannerClip">
+      <rect x="2" y="2" width="896" height="196" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="196" rx="12" fill="#0a0a0a" stroke="#00ff66" stroke-width="2" filter="url(#glow)"/>
+
+  <g clip-path="url(#bannerClip)" font-family="monospace" font-size="14" fill="#00ff66">
+    <g transform="translate(30,0)" opacity="0.45">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,-200;0,400" dur="4.5s" repeatCount="indefinite"/>
+        <text x="0" y="0">
+          <tspan x="0" dy="18">ア</tspan>
+          <tspan x="0" dy="18">カ</tspan>
+          <tspan x="0" dy="18">サ</tspan>
+          <tspan x="0" dy="18">9</tspan>
+          <tspan x="0" dy="18">タ</tspan>
+          <tspan x="0" dy="18">0</tspan>
+          <tspan x="0" dy="18">ナ</tspan>
+          <tspan x="0" dy="18">1</tspan>
+          <tspan x="0" dy="18">ハ</tspan>
+          <tspan x="0" dy="18">マ</tspan>
+        </text>
+      </g>
+    </g>
+
+    <g transform="translate(80,0)" opacity="0.3">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,-250;0,350" dur="5.8s" repeatCount="indefinite"/>
+        <text x="0" y="0">
+          <tspan x="0" dy="18">0</tspan>
+          <tspan x="0" dy="18">ラ</tspan>
+          <tspan x="0" dy="18">ワ</tspan>
+          <tspan x="0" dy="18">1</tspan>
+          <tspan x="0" dy="18">ン</tspan>
+          <tspan x="0" dy="18">ロ</tspan>
+          <tspan x="0" dy="18">7</tspan>
+          <tspan x="0" dy="18">ヤ</tspan>
+          <tspan x="0" dy="18">ナ</tspan>
+          <tspan x="0" dy="18">#</tspan>
+        </text>
+      </g>
+    </g>
+
+    <g transform="translate(130,0)" opacity="0.4">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,-180;0,420" dur="5.1s" repeatCount="indefinite"/>
+        <text x="0" y="0">
+          <tspan x="0" dy="18">サ</tspan>
+          <tspan x="0" dy="18">タ</tspan>
+          <tspan x="0" dy="18">0</tspan>
+          <tspan x="0" dy="18">ナ</tspan>
+          <tspan x="0" dy="18">$</tspan>
+          <tspan x="0" dy="18">ハ</tspan>
+          <tspan x="0" dy="18">1</tspan>
+          <tspan x="0" dy="18">マ</tspan>
+          <tspan x="0" dy="18">ヤ</tspan>
+          <tspan x="0" dy="18">ラ</tspan>
+        </text>
+      </g>
+    </g>
+
+    <g transform="translate(770,0)" opacity="0.4">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,-220;0,380" dur="4.8s" repeatCount="indefinite"/>
+        <text x="0" y="0">
+          <tspan x="0" dy="18">ワ</tspan>
+          <tspan x="0" dy="18">ン</tspan>
+          <tspan x="0" dy="18">0</tspan>
+          <tspan x="0" dy="18">ロ</tspan>
+          <tspan x="0" dy="18">1</tspan>
+          <tspan x="0" dy="18">ヤ</tspan>
+          <tspan x="0" dy="18">#</tspan>
+          <tspan x="0" dy="18">ラ</tspan>
+          <tspan x="0" dy="18">7</tspan>
+          <tspan x="0" dy="18">ナ</tspan>
+        </text>
+      </g>
+    </g>
+
+    <g transform="translate(820,0)" opacity="0.3">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,-260;0,340" dur="6.2s" repeatCount="indefinite"/>
+        <text x="0" y="0">
+          <tspan x="0" dy="18">ア</tspan>
+          <tspan x="0" dy="18">カ</tspan>
+          <tspan x="0" dy="18">1</tspan>
+          <tspan x="0" dy="18">サ</tspan>
+          <tspan x="0" dy="18">0</tspan>
+          <tspan x="0" dy="18">タ</tspan>
+          <tspan x="0" dy="18">$</tspan>
+          <tspan x="0" dy="18">ナ</tspan>
+          <tspan x="0" dy="18">ハ</tspan>
+          <tspan x="0" dy="18">マ</tspan>
+        </text>
+      </g>
+    </g>
+
+    <g transform="translate(870,0)" opacity="0.45">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,-190;0,410" dur="5.4s" repeatCount="indefinite"/>
+        <text x="0" y="0">
+          <tspan x="0" dy="18">マ</tspan>
+          <tspan x="0" dy="18">ヤ</tspan>
+          <tspan x="0" dy="18">0</tspan>
+          <tspan x="0" dy="18">ラ</tspan>
+          <tspan x="0" dy="18">ワ</tspan>
+          <tspan x="0" dy="18">1</tspan>
+          <tspan x="0" dy="18">ン</tspan>
+          <tspan x="0" dy="18">ロ</tspan>
+          <tspan x="0" dy="18">#</tspan>
+          <tspan x="0" dy="18">7</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+
+  <g stroke="#00ff66" stroke-width="2" fill="none">
+    <path d="M 14 28 L 14 14 L 28 14"/>
+    <path d="M 872 14 L 886 14 L 886 28"/>
+    <path d="M 886 172 L 886 186 L 872 186"/>
+    <path d="M 28 186 L 14 186 L 14 172"/>
+  </g>
+
+  <rect x="2" y="0" width="896" height="3" fill="#00ff66" opacity="0.08">
+    <animate attributeName="y" values="2;196;2" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g text-anchor="middle">
+    <text x="452" y="95" font-family="monospace" font-weight="bold" font-size="46" fill="#ff003c" opacity="0.5">TONNY
+      <animate attributeName="x" values="452;448;452;455;452" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0;0.5;0;0.5" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="448" y="95" font-family="monospace" font-weight="bold" font-size="46" fill="#00fff9" opacity="0.5">TONNY
+      <animate attributeName="x" values="448;452;448;445;448" dur="2.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0;0.5;0;0.5" dur="2.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="450" y="95" font-family="monospace" font-weight="bold" font-size="46" fill="#00ff66" filter="url(#glow)">TONNY</text>
+    <text x="450" y="130" font-family="monospace" font-size="18" fill="#00ff66" opacity="0.85">修行中 — full-stack developer in training</text>
+  </g>
+</svg>
