@@ -33,33 +33,64 @@
 
 <br>
 
+
 <div align="left">
 
+<!-- FRONT-END -->
 💻 <img src="https://img.shields.io/badge/Front--End-%5Bフロントエンド%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Front-End"/>
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,figma,bootstrap,js,react,vite,styledcomponents,git,vercel,netlify,jquery&perline=6"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,bootstrap,jquery,vite,threejs,figma,styledcomponents&perline=7&theme=dark" alt="Front-End Skills"/>
 <br><br>
 
+<!-- BACK-END -->
 🖥 <img src="https://img.shields.io/badge/Back--End-%5Bバックエンド%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Back-End"/>
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,babel,npm,webpack,spring,java,idea,python,cs,dotnet&perline=6"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,java,python,flask&perline=7&theme=dark" alt="Back-End Skills"/>
 <br><br>
 
+<!-- DATABASES -->
 🗄️ <img src="https://img.shields.io/badge/Data--Layer-%5Bデータ%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Data Layer"/>
 <br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws&perline=6"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,postgresql,mysql,mongodb,sqlite&perline=5&theme=dark" alt="Database Skills"/>
 <br><br>
 
-⌨️ <img src="https://img.shields.io/badge/OS--Terminal-%5Bシステム%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="OS and Terminal"/>
+<!-- GAME DEVELOPMENT -->
+🎮 <img src="https://img.shields.io/badge/Game--Dev-%5Bゲーム開発%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Game Development"/>
 <br>
-<img src="https://skillicons.dev/icons?i=bash,powershell,kali,linux,ubuntu,mint,vim,windows,arch&perline=6"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=unrealengine,godot,unity,cpp&perline=4&theme=dark" alt="Game Development Skills"/>
 <br><br>
 
-⚙️ <img src="https://img.shields.io/badge/Tools--Extras-%5Bその他%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Tools and Extras"/>
+<!-- AI & DEVELOPMENT -->
+🤖 <img src="https://img.shields.io/badge/AI--Tools-%5B人工知能%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="AI Tools"/>
 <br>
-<img src="https://skillicons.dev/icons?i=regex,postman,docker,kubernetes,obsidian,notion,md,unity,arduino,cpp,ps,pr&perline=6"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,chatgpt&perline=6&theme=dark" alt="AI Development Tools"/>
+<br><br>
+
+<!-- TESTING & QUALITY -->
+🧪 <img src="https://img.shields.io/badge/Testing--Quality-%5B品質管理%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Testing and Quality"/>
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vitest,postman,insomnia&perline=6&theme=dark" alt="Testing and Quality Tools"/>
+<br><br>
+
+<!-- CLOUD & DEVOPS -->
+☁️ <img src="https://img.shields.io/badge/Cloud--DevOps-%5Bクラウド%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Cloud and DevOps"/>
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,aws,vercel,netlify,docker,git,github,githubactions,githubpages&perline=6&theme=dark" alt="Cloud and DevOps Skills"/>
+<br><br>
+
+<!-- DEVELOPMENT TOOLS -->
+⚙️ <img src="https://img.shields.io/badge/Dev--Tools-%5B開発環境%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Development Tools"/>
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,npm,pnpm,powershell,bash,linux,ubuntu,windows,arch,wsl&perline=6&theme=dark" alt="Development Tools"/>
+<br><br>
+
+<!-- ADDITIONAL TOOLS -->
+⌨️ <img src="https://img.shields.io/badge/Extras-%5Bその他%5D-000000?style=for-the-badge&labelColor=111111&color=00ff00" alt="Additional Tools"/>
+<br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=notion,obsidian,markdown,regex,photoshop,premiere&perline=6&theme=dark" alt="Additional Tools"/>
 
 </div>
+
 
 ## ⬛ CYBER-LINKS [リンク] ⬛
 <div align="center">
